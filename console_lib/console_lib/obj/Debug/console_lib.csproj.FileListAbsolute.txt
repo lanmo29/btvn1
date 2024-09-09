@@ -1,0 +1,10 @@
+C:\Users\PV\source\repos\console_lib\console_lib\bin\Debug\console_lib.exe.config
+C:\Users\PV\source\repos\console_lib\console_lib\bin\Debug\console_lib.exe
+C:\Users\PV\source\repos\console_lib\console_lib\bin\Debug\console_lib.pdb
+C:\Users\PV\source\repos\console_lib\console_lib\bin\Debug\lib_phepnhan.dll
+C:\Users\PV\source\repos\console_lib\console_lib\bin\Debug\lib_phepnhan.pdb
+C:\Users\PV\source\repos\console_lib\console_lib\obj\Debug\console_lib.csproj.AssemblyReference.cache
+C:\Users\PV\source\repos\console_lib\console_lib\obj\Debug\console_lib.csproj.CoreCompileInputs.cache
+C:\Users\PV\source\repos\console_lib\console_lib\obj\Debug\console_.28EBB785.Up2Date
+C:\Users\PV\source\repos\console_lib\console_lib\obj\Debug\console_lib.exe
+C:\Users\PV\source\repos\console_lib\console_lib\obj\Debug\console_lib.pdb
