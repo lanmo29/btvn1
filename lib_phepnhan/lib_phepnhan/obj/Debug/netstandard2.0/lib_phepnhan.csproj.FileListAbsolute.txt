@@ -1,0 +1,11 @@
+C:\Users\PV\source\repos\btvn1\btvn1\lib_phepnhan\lib_phepnhan\bin\Debug\netstandard2.0\lib_phepnhan.deps.json
+C:\Users\PV\source\repos\btvn1\btvn1\lib_phepnhan\lib_phepnhan\bin\Debug\netstandard2.0\lib_phepnhan.dll
+C:\Users\PV\source\repos\btvn1\btvn1\lib_phepnhan\lib_phepnhan\bin\Debug\netstandard2.0\lib_phepnhan.pdb
+C:\Users\PV\source\repos\btvn1\btvn1\lib_phepnhan\lib_phepnhan\obj\Debug\netstandard2.0\lib_phepnhan.csproj.AssemblyReference.cache
+C:\Users\PV\source\repos\btvn1\btvn1\lib_phepnhan\lib_phepnhan\obj\Debug\netstandard2.0\lib_phepnhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PV\source\repos\btvn1\btvn1\lib_phepnhan\lib_phepnhan\obj\Debug\netstandard2.0\lib_phepnhan.AssemblyInfoInputs.cache
+C:\Users\PV\source\repos\btvn1\btvn1\lib_phepnhan\lib_phepnhan\obj\Debug\netstandard2.0\lib_phepnhan.AssemblyInfo.cs
+C:\Users\PV\source\repos\btvn1\btvn1\lib_phepnhan\lib_phepnhan\obj\Debug\netstandard2.0\lib_phepnhan.csproj.CoreCompileInputs.cache
+C:\Users\PV\source\repos\btvn1\btvn1\lib_phepnhan\lib_phepnhan\obj\Debug\netstandard2.0\lib_phepnhan.sourcelink.json
+C:\Users\PV\source\repos\btvn1\btvn1\lib_phepnhan\lib_phepnhan\obj\Debug\netstandard2.0\lib_phepnhan.dll
+C:\Users\PV\source\repos\btvn1\btvn1\lib_phepnhan\lib_phepnhan\obj\Debug\netstandard2.0\lib_phepnhan.pdb
